@@ -2,7 +2,7 @@ Use UPER method to solve problems.
 
 - U: Understand:
 
-  - Loot at examples
+  - Look at examples
   - Know what the constraints of the problem are
   - Know what the expected input/output is when running the code
   - Ask any remaining questions that aren't clear in the problem.
